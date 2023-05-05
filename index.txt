@@ -1,12 +1,12 @@
-Tvflix
+Tvorganic
 
-Tvflix is a popular movie app made by codewithsadee.
+Tvorganic is a popular movie app made by dwikisuastu.
 
 
 
 #---------- HEADER ----------#
 
-alt = Tvflix home
+alt = Tvorganic home
 
 aria-label = search movies
 placeholder = Search any movies...
@@ -40,8 +40,7 @@ Hindi
 Bengali
 
 Copyright 2023
-href = https://youtube.com/@codewithsadee
-codewithsadee
+dwikisuastu
 
 alt = the movie database logo
 
