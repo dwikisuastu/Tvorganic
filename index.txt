@@ -36,11 +36,15 @@ Sci-Fi
 Language
 
 English
+Indonesia
 Hindi
 Bengali
 
+
+
 Copyright 2023
 dwikisuastu
+href = https://www.linkedin.com/in/dwikisuastu/
 
 alt = the movie database logo
 
